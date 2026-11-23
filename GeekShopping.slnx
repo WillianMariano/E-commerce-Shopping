@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/FrontEnd/">
+    <Project Path="GeekShooping.Web/GeekShopping.Web.csproj" />
+  </Folder>
+  <Folder Name="/Integration/">
+    <Project Path="GeekShooping.MessageBus/GeekShopping.MessageBus.csproj" Id="f2741560-7687-4ab5-92b1-e59c019fc51e" />
+  </Folder>
+  <Folder Name="/Payments/">
+    <Project Path="GeekShooping.PaymentProcessor/GeekShopping.PaymentProcessor.csproj" Id="3f7d069c-e316-4612-b288-3ca4bb8dd0ab" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="GeekShooping.CartApi/GeekShopping.CartApi.csproj" Id="f818b15a-fbba-408c-a97e-c5ae4418fa17" />
+    <Project Path="GeekShooping.Email/GeekShopping.Email.csproj" Id="4a0047b0-3d90-49fc-b698-660c0682b6e6" />
+    <Project Path="GeekShooping.IdentityServer/GeekShopping.IdentityServer.csproj" />
+    <Project Path="GeekShooping.OrderApi/GeekShopping.OrderApi.csproj" Id="ddbb81cf-dbc9-4b28-9a0b-c8678762788e" />
+    <Project Path="GeekShooping.PaymentApi/GeekShopping.PaymentApi.csproj" Id="0e36621d-57c1-49be-bd96-e3dc6b41728d" />
+    <Project Path="GeekShooping.ProductApi/GeekShopping.ProductApi.csproj" />
+    <Project Path="GeekSooping.CouponApi/GeekSopping.CouponApi.csproj" Id="c16caf49-9216-4da8-ad50-3178ba621d6b" />
+  </Folder>
+</Solution>
